@@ -1,6 +1,3 @@
-import socket
-import ssl
-import time
 import ujson
 from network import LTE
 from mqtt import MQTTClient
